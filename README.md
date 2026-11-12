@@ -4,6 +4,8 @@ An interactive, retro side-scrolling portfolio. Walk and jump through the level,
 
 All graphics are drawn in code on an HTML canvas (no image files), and sound effects are generated with the Web Audio API (no audio files).
 
+🔴 LIVE DEMO: https://parthava-borah-ten.vercel.app/
+
 ## Getting Started
 
 Requires Node.js 18.18 or newer.
